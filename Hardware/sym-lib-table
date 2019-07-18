@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name custom)(type Legacy)(uri /home/maarten/kicad/RGB_ledstrip_controller/custom.lib)(options "")(descr ""))
+  (lib (name RGB_ledstrip_controller-rescue)(type Legacy)(uri ${KIPRJMOD}/RGB_ledstrip_controller-rescue.lib)(options "")(descr ""))
 )

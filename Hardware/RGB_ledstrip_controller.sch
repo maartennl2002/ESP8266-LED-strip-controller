@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:RGB_ledstrip_controller-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L custom:WeMos_mini U1
+L RGB_ledstrip_controller-rescue:WeMos_mini-custom U1
 U 1 1 5B8C508B
 P 5950 3350
 F 0 "U1" H 5950 4115 50  0000 C CNN
