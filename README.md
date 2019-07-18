@@ -1,4 +1,4 @@
-# ESP8266-LED-strip-controller
+# ESP8266 LED strip controller
 This repository includes the kicad design files for a wireless RGBW / RGBWW controller and a wireless RGB controller based off of the ESP8266.
 
 The RGBWW controller:
